@@ -107,6 +107,9 @@ In the current decade, mobile phone development continues to advance at a rapid 
 Conclusion - Czach
 The development of mobile phones has been a long journey. Multiple advancements throughout the years in technology have contributed to the evolution of mobile phones. What started off as early radio and communication experiments has developed into one of the most important gadget in modern times. Every significant event such as the first handheld call, the development of cellular networks, the release of smartphones, and the spread of 5G networks, pushed the limits of what was possible for portable communication.
 Mobile devices nowadays are more powerful than computers made back then, and they keep getting smarter, and more connected. As innovation continues, it’s clear that mobile phones will remain an important part with how we communicate and interact with the world around us.
+REF:
+https://techbuzz.att.com/explainers/history-of-the-mobile-phone-from-1g-to-5g/
+https://www.wired.com/2009/03/gallery-cell-phone-history/
 
  
 
