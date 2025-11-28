@@ -1,3 +1,4 @@
+# Historical Evolution of Nokia's Mobile Phones
 ## **Introduction**
 #### All modern devices that have a visual interface have an operating system that helps the user experience the device in a way that makes sense to them, without having extensive computer knowledge. The way operating systems look and function has evolved over the years, older phone started with only the necessary features like calling and storing phone numbers, so there was no need for a flashy software design, nor were there the resources. As phones became more powerful, the more features are added, and the better the operating systems can look.
 #### In this text, I will explain the historical evolution and major developments through Nokia’s height of popularity, when mobile phones were very limited in their features, to a point just before the creation of the iPhone, where their empire came crashing down.
