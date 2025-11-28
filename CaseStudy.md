@@ -57,3 +57,56 @@ REFERENCES,
 3. https://onextmonitor.com/blog/the-evolution-of-portable-touch-screen-displays-in-tech
 4. http://www.thelearningbrush.com/the-incredible-evolution-of-tablets-a-comprehensive-guide-5/
 
+
+
+
+case study
+Introduction - Czach
+Most people were unaware that a new digital era was about to begin when Apple released the first iPhone in 2007. In Today’s standards, the iPhone OS software installed in that phone was found to be very basic. Still, it brought new concepts, such as smooth scrolling and pinching the touchscreen to zoom in and out. That operating system would evolve and reinvent itself countless times over the course of the eighteen years. It would transform the smartphone into an essential part of everyday life and become the foundation of a complete ecosystem.
+
+
+Historical development of Mobile phones - Czach
+
+From as early as the late 1800s the concept of wireless communication began to take shape and evolved from basic radio experiments to the modern mobile devices we rely on today. Over the years, advances such as technology, battery design, digital networks and computing power have turned mobile phones from large experimental handheld devices into daily tools that we use every day. 
+
+1876 - The Telephone (Alexander Graham Bell)
+The Development of mobile phones began with the invention of the telephone by Alexander Graham Bell, Although this device wasn’t portable, this significant development allowed electrical transmission of the voice for the first time, setting the foundation for all future mobile devices.
+
+1947- Cellular Network Concept (Nokia Bell Labs)
+Engineers at Nokia Bell Labs proposed the idea of “cellular” network. The concept in which an area is divided into tiny radio cells that hand devices off between towers. This idea became the blueprint for modern mobile phone networks, even though the technology to support it didn’t exist yet.
+
+1973 - First Mobile Phone Call (Motorola DynaTAC)
+Martin Cooper of Motorola used the prototype DynaTAC device to make the first handheld mobile phone call. Even though the phone weighed around 2.5 pounds and had a very limited battery life, it was a major breakthrough. At this point, mobile phones became a reality and not just an idea.
+
+1983 - Motorola DynaTAC 8000X (1G Era)
+The first commercial mobile phone, the DynaTAC 8000X, was released. It was priced at 3995 dollars which was very expensive at the time. Despite being large, expensive, and allowing only 30 minutes of talk time, it marked the beginning of mobile phone technology and introduced the world to the first generation of cellular network.
+
+1991 - GSM and 2G Networks
+GSM, also known as (Global System for Mobile Communications), marked the start of mobile networks. This advance brought clearer calls, better security, and allowed you to send SMS text messages. This would end up being very popular throughout the 1990s.
+
+1999 - First Mobile Internet Access (i-mode)
+Japan’s NTT DoCoMo introduced i-mode, the first widely used mobile internet service. This allowed users to check their emails, browse a limited amount of websites/web pages and use online services directly on their phones.
+ 2001 - First 3G Network
+The launch of the third generation of cellular networks made mobile internet more practical. It enabled tons of new features such as video calling, multimedia messaging, which made early smartphones to emerge and become more capable.
+
+2007 - The iPhone (Modern Mobile Device Era Begins)
+The entire mobile phone industry was completely transformed by Apple’s introduction of the iPhone. It established a new standard with its multitouch interface, full web browser, and focus on their user friendly design. The iPhone prioritised a smooth experience compared to other smartphones.
+
+2008 - Android and App Stores
+Following the iPhone, Android entered the market offering an entirely new open source alternative. On the exact same year, app stores were introduced, allowing third-party developers to create millions of apps. This made most mobile phones from communication devices to powerful handheld computers.
+
+2009-2012 - 4G LTE
+The development of the Fourth Generation Long Term Evolution drastically improved mobile internet speeds. This allowed for High definition video streaming, real time gaming, cloud computing and the rise of social media. Phones become faster and small enough to fit into pockets.
+
+2019 - Introduction of 5G Networks
+The release of the Fifth Generation Cellular Networks marked another step in mobile device development. With high speeds and lower latency, phones could now support more features such as Artificial Intelligence integration, and improved online gaming and video calls.
+
+2020s and More Recent Years
+In the current decade, mobile phone development continues to advance at a rapid rate. Manufacturers are exploring bendable and foldable screens, creating better and more efficient processors, improving battery life and integrating a lot more Artificial Intelligence features into devices. Cameras have also reached professional quality levels and biometric security such as face identification and fingerprint scanning.
+
+Conclusion - Czach
+The development of mobile phones has been a long journey. Multiple advancements throughout the years in technology have contributed to the evolution of mobile phones. What started off as early radio and communication experiments has developed into one of the most important gadget in modern times. Every significant event such as the first handheld call, the development of cellular networks, the release of smartphones, and the spread of 5G networks, pushed the limits of what was possible for portable communication.
+Mobile devices nowadays are more powerful than computers made back then, and they keep getting smarter, and more connected. As innovation continues, it’s clear that mobile phones will remain an important part with how we communicate and interact with the world around us.
+
+ 
+
